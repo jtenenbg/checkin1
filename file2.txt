@@ -1,1 +1,2 @@
 This is the state I want it in. Here is more text.
+This is line 2
